@@ -13,7 +13,7 @@ Team Members:
 
 ## Content
 
-Machine learning classification algorithms for diagnsis and prediction of breast cancer using [Wisconsin Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)).
+Machine learning classification algorithms for diagnosis and prediction of breast cancer using [Wisconsin Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)).
 
 
 Make sure you have installed required python libraries.
